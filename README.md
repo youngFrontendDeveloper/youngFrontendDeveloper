@@ -16,13 +16,8 @@
 | Проект | Описание | Стек |
 | :--- | :--- | :--- |
 | **rem-ur (https://rem-ur.ru/)** | Уроки по ремонту, а так же каталог материалов и инструментов, список мастеров и калькулятор рассчета стоимости услуг, личный кабинет | Next, SWR, SCSS Modules, REST API |
-| **[Персональный Блог](ссылка-на-репозиторий)** | Статический блог, сгенерированный с помощью Next.js. | Next.js, SSG, Markdown |
-| **[UI Kit Компонентов](ссылка-на-репозиторий)** | Библиотека переиспользуемых компонентов (кнопки, инпуты, модалки). | React, TypeScript, Storybook |
-
-#### 📈 Моя активность на GitHub:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Codewars](https://www.codewars.com/users/ВАШ_USERNAME_НА_CODEWARS/badges/small)](https://www.codewars.com/users/ВАШ_USERNAME_НА_CODEWARS) <!-- Опционально -->
+| **Товары для всей семьи(https://github.com/youngFrontendDeveloper/products-for-whole-family)** | Мини-магазин | React, TS, RTK, RTKQuery  |
+| **Любимые фильмы (https://github.com/youngFrontendDeveloper/movies)** | Каталог фильмов, с возможностью добавлять, удалять , редактировать. | React, RTK, RTKQuery |
 
 #### 📫 Как со мной связаться:
 *   **Telegram:** @Sauniya](https://t.me/Sauniya)
