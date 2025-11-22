@@ -1,16 +1,31 @@
-## Hi there 👋
+### Привет! 👋 Меня зовут Нина Саушкина
 
-<!--
-**youngFrontendDeveloper/youngFrontendDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий Frontend-разработчик с фокусом на современном JavaScript-стеке. 
 
-Here are some ideas to get you started:
+#### 🛠 Мой стек технологий:
+*   **Языки:** JavaScript, TypeScript
+*   **Фронтенд:** React, Next.js, Redux (Toolkit, Query), HTML5, CSS3
+*   **Стилизация:** SCSS/Sass, CSS Modules
+*   **Инструменты:** Git, Webpack, Vite, REST API
+*   **Дизайн:** Figma (работа с макетами), Photoshop
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📁 Ключевые проекты:
+
+Вот несколько моих проектов, которые отражают мои навыки:
+
+| Проект | Описание | Стек |
+| :--- | :--- | :--- |
+| **[Крутой Интернет-Магазин](ссылка-на-живой-демо)** | SPA для интернет-магазина с корзиной, фильтрами и избранным. | React, Redux Toolkit, SCSS Modules, REST API |
+| **[Персональный Блог](ссылка-на-репозиторий)** | Статический блог, сгенерированный с помощью Next.js. | Next.js, SSG, Markdown |
+| **[UI Kit Компонентов](ссылка-на-репозиторий)** | Библиотека переиспользуемых компонентов (кнопки, инпуты, модалки). | React, TypeScript, Storybook |
+
+#### 📈 Моя активность на GitHub:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Codewars](https://www.codewars.com/users/ВАШ_USERNAME_НА_CODEWARS/badges/small)](https://www.codewars.com/users/ВАШ_USERNAME_НА_CODEWARS) <!-- Опционально -->
+
+#### 📫 Как со мной связаться:
+*   **Telegram:** [[@Sauniya](https://t.me/Sauniya)]
+*   **Почта:** frontend-developer@inbox.ru*  
+
+
