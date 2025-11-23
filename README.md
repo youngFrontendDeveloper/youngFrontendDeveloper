@@ -5,7 +5,7 @@
 #### 🛠 Мой стек технологий:
 *   **Языки:** JavaScript, TypeScript
 *   **Фронтенд:** React, Next.js, Redux (Toolkit, Query), HTML5, CSS3
-*   **Стилизация:** SCSS/Sass, CSS Modules
+*   **Стилизация:** SCSS/Sass, CSS Modules, AntDesign, MUI
 *   **Инструменты:** Git, Webpack, Vite, REST API
 *   **Дизайн:** Figma (работа с макетами), Photoshop
 
