@@ -1,17 +1,17 @@
-### Привет! 👋 Меня зовут Нина Саушкина
+### Привет! Меня зовут Нина Саушкина
 
-Я начинающий Frontend-разработчик с фокусом на современном JavaScript-стеке. 
+Я начинающий Frontend-разработчик (React/Next). 
 
-#### 🛠 Мой стек технологий:
+#### Мой стек технологий:
 *   **Языки:** JavaScript, TypeScript
-*   **Фронтенд:** React, Next.js, Redux (Toolkit, Query), HTML5, CSS3
-*   **Стилизация:** SCSS/Sass, CSS Modules, AntDesign, MUI
+*   **Фронтенд:** React, Next.js, Redux (Toolkit, Query), HTML5 
+*   **Стилизация:** CSS3, SCSS/Sass, CSS Modules, AntDesign, MUI
 *   **Инструменты:** Git, Webpack, Vite, REST API
 *   **Дизайн:** Figma (работа с макетами), Photoshop
 
-#### 📁 Ключевые проекты:
+#### Ключевые проекты:
 
-Вот несколько моих проектов, которые отражают мои навыки:
+Вот несколько проектов, которые отражают мои навыки:
 
 | Проект | Описание | Стек |
 | :--- | :--- | :--- |
@@ -19,7 +19,7 @@
 | **Товары для всей семьи(https://github.com/youngFrontendDeveloper/products-for-whole-family)** | Мини-магазин | React, TS, RTK, RTKQuery  |
 | **Любимые фильмы (https://github.com/youngFrontendDeveloper/movies)** | Каталог фильмов, с возможностью добавлять, удалять , редактировать. | React, RTK, RTKQuery |
 
-#### 📫 Как со мной связаться:
+#### Как со мной связаться:
 *   **Telegram:** @Sauniya](https://t.me/Sauniya)
 *   **Почта:** frontend-developer@inbox.ru  
 
