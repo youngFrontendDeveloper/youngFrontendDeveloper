@@ -1,10 +1,10 @@
 ### Меня зовут Нина Саушкина
 
-Я начинающий Frontend-разработчик (React/Next). 
+Я - Frontend-разработчик (React/Next). 
 
 #### Мой стек технологий:
 *   **Языки:** JavaScript, TypeScript
-*   **Фронтенд:** React, Next.js, Redux (Toolkit, Query), HTML5 
+*   **Фронтенд:** React, Next.js, Redux и его экосистема, HTML5 
 *   **Стилизация:** CSS3, SCSS/Sass, CSS Modules, AntDesign, MUI
 *   **Инструменты:** Git, Webpack, Vite, REST API
 *   **Дизайн:** Figma (работа с макетами), Photoshop
