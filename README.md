@@ -17,7 +17,7 @@
 | :--- | :--- | :--- |
 | **rem-ur (https://rem-ur.ru/)** | Уроки по ремонту, а так же каталог материалов и инструментов, список мастеров и калькулятор рассчета стоимости услуг, личный кабинет | Next, SWR, SCSS Modules, REST API |
 | **Товары для всей семьи(https://github.com/youngFrontendDeveloper/products-for-whole-family)** | Мини-каталог товаров | React, TS, RTK, RTKQuery  |
-| **Любимые фильмы (https://github.com/youngFrontendDeveloper/movies)** | Каталог фильмов, с возможностью добавлять, удалять , редактировать. | React, RTK, RTKQuery |
+| **Тарифы на фитнес (https://fitness-room.vercel.app/)** | Страница с тарифами фитнес-центра| Next, RTK, RTKQuery |
 
 #### Как со мной связаться:
 *   **Telegram:** @Sauniya](https://t.me/Sauniya)
