@@ -4,7 +4,8 @@
 
 #### Мой стек технологий:
 *   **Языки:** JavaScript, TypeScript
-*   **Фронтенд:** React, Next.js, Redux и его экосистема, HTML5 
+*   **Фронтенд:** React, Next.js, Redux и его экосистема, HTML5
+*   **CMS и конструкторы:** WordPress, Tilda 
 *   **Стилизация:** CSS3, SCSS/Sass, CSS Modules, AntDesign, MUI
 *   **Инструменты:** Git, Webpack, Vite, REST API
 *   **Дизайн:** Figma (работа с макетами), Photoshop
